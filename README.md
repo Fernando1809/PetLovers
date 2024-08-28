@@ -44,4 +44,4 @@ Licenciado bajo la [Licencia MIT](LICENSE).
 
 ## Contacto
 
-Para más información, contacta a [tu-email@example.com](mailto:tu-email@example.com).
+Para más información, contacta a [tu-email@example.com](mailto:ferandre1718.frg@gmail.com).
